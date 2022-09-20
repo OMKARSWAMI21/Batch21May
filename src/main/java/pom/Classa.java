@@ -6,5 +6,6 @@ public class Classa
 	{
 		System.out.println("hay");
 		System.out.println("hii om");
+		System.out.println("hii ram");
 	}
 }
